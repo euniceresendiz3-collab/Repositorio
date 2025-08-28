@@ -1,4 +1,4 @@
-# Resumen del artículo científico
+# Resumen del artículo científico - Eunice Reséndiz Morales
 
 ## Título:
 **Importancia del pensamiento abstracto. Su formación en el aprendizaje de la Programación**
