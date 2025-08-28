@@ -4,7 +4,7 @@
 **Importancia del pensamiento abstracto. Su formación en el aprendizaje de la Programación**
 
 ## ¿Por qué lo escogí?
-Decidí trabajar con este artículo porque me interesa la relación entre la programación y el desarrollo de habilidades cognitivas. Me llamó la atención cómo la Programación Orientada a Objetos y las Estructuras de Datos no solo son herramientas técnicas, sino también medios para fortalecer el pensamiento abstracto y lógico, capacidades necesarias en cualquier área de la vida académica y profesional.
+Decidí trabajar con este artículo porque me interesa la relación entre la programación y el desarrollo de habilidades cognitivas. Me llamó la atención cómo la Programación Orientada a Objetos y las Estructuras de Datos no solo son herramientas técnicas, sino también medios para fortalecer el pensamiento abstracto y lógico, capacidades necesarias en cualquier área de la vida académica y profesional. Y siento que es parte a lo que quiero decicar mi tiempo y atención en mi esatncia profesional.
 
 ## Resumen:
 El texto resalta que el pensamiento abstracto es esencial para imaginar, planificar y resolver problemas. En el contexto de la programación, se vincula directamente con la capacidad de modelar objetos, procesos y fenómenos de la realidad o creados en la imaginación.  
