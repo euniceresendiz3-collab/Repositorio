@@ -12,3 +12,7 @@ El texto resalta que el pensamiento abstracto es esencial para imaginar, planifi
 Para aprender Programación Orientada a Objetos y Estructuras de Datos se necesita un nivel básico de abstracción, pero al mismo tiempo, este se desarrolla y fortalece durante el proceso de aprendizaje. El uso de modelos, diagramas, símbolos, imágenes o mapas conceptuales resulta clave para fomentar esa capacidad en estudiantes.  
 
 La conclusión principal es que la programación, además de ser una tarea compleja y retadora, promueve el pensamiento lógico y abstracto, preparando a las personas para enfrentar problemas complejos, trabajar en equipo y proyectarse al futuro.
+git add .
+git commit -m "Compilé mi cerebro en un PDF y le puse un resumen bien abstracto 🐱‍👤"
+git push origin main
+
